@@ -1,0 +1,218 @@
+[
+  {
+    "id": "7d35336a-0ae5-48cb-916b-b0df367ce647",
+    "data": [
+      {
+        "text": "onion",
+        "alias": "Topping",
+        "meta": "@Topping",
+        "userDefined": false
+      },
+      {
+        "text": " pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527237871
+  },
+  {
+    "id": "1cff2c2b-d6f8-4ed6-a2f6-8a6a1a37dd8e",
+    "data": [
+      {
+        "text": "I want a ",
+        "userDefined": false
+      },
+      {
+        "text": "Green peppers",
+        "alias": "Topping",
+        "meta": "@Topping",
+        "userDefined": false
+      },
+      {
+        "text": " pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527237871
+  },
+  {
+    "id": "2873dd97-282f-468a-b12e-e4d75d6b03e3",
+    "data": [
+      {
+        "text": "I want a ",
+        "userDefined": false
+      },
+      {
+        "text": "Black olives",
+        "alias": "Topping",
+        "meta": "@Topping",
+        "userDefined": false
+      },
+      {
+        "text": " pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527237871
+  },
+  {
+    "id": "c57afd88-789b-4eeb-b524-a33d83797cb1",
+    "data": [
+      {
+        "text": "I want a ",
+        "userDefined": false
+      },
+      {
+        "text": "Extra cheese",
+        "alias": "Topping",
+        "meta": "@Topping",
+        "userDefined": false
+      },
+      {
+        "text": " pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527237871
+  },
+  {
+    "id": "1e87b9b8-86b3-454f-8521-5390a8b06434",
+    "data": [
+      {
+        "text": "I want a ",
+        "userDefined": false
+      },
+      {
+        "text": "Bacon",
+        "alias": "Topping",
+        "meta": "@Topping",
+        "userDefined": false
+      },
+      {
+        "text": " pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527237871
+  },
+  {
+    "id": "40178641-18b1-41dc-808d-036e2f87efd7",
+    "data": [
+      {
+        "text": "I want a ",
+        "userDefined": false
+      },
+      {
+        "text": "Sausage",
+        "alias": "Topping",
+        "meta": "@Topping",
+        "userDefined": false
+      },
+      {
+        "text": " pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527237871
+  },
+  {
+    "id": "de9722d7-2563-447b-a9ab-2af680fb49b9",
+    "data": [
+      {
+        "text": "I want a ",
+        "userDefined": false
+      },
+      {
+        "text": "onion",
+        "alias": "Topping",
+        "meta": "@Topping",
+        "userDefined": false
+      },
+      {
+        "text": " pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527237871
+  },
+  {
+    "id": "f5a9470c-f018-4355-aca7-ab7e9d8c2e44",
+    "data": [
+      {
+        "text": "I want a ",
+        "userDefined": false
+      },
+      {
+        "text": "mushroom",
+        "alias": "Topping",
+        "meta": "@Topping",
+        "userDefined": true
+      },
+      {
+        "text": " pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527237871
+  },
+  {
+    "id": "21d397b7-5022-45bd-8485-07fce3fd82d4",
+    "data": [
+      {
+        "text": "I want a ",
+        "userDefined": false
+      },
+      {
+        "text": "pepperoni",
+        "alias": "Topping",
+        "meta": "@Topping",
+        "userDefined": false
+      },
+      {
+        "text": " pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527237871
+  },
+  {
+    "id": "0eddff65-9672-43e7-a4bc-8f0bab786895",
+    "data": [
+      {
+        "text": "I want a ",
+        "userDefined": false
+      },
+      {
+        "text": "cheese",
+        "alias": "Topping",
+        "meta": "@Topping",
+        "userDefined": true
+      },
+      {
+        "text": " pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527237871
+  }
+]
