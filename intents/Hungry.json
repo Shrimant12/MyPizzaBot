@@ -1,0 +1,32 @@
+{
+  "id": "a88cd5a2-ef39-4295-8027-138617dc2195",
+  "name": "Hungry",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Can I order you a Pizza ?",
+            "Do you love Pizza ?",
+            "How about a Pizza ?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527238079,
+  "fallbackIntent": false,
+  "events": []
+}
