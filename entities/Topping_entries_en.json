@@ -1,0 +1,79 @@
+[
+  {
+    "value": "Onions",
+    "synonyms": [
+      "Onions",
+      "onions",
+      "onion"
+    ]
+  },
+  {
+    "value": "Mushrooms",
+    "synonyms": [
+      "Mushrooms",
+      "mushrooms",
+      "mushroom"
+    ]
+  },
+  {
+    "value": "Pepperoni",
+    "synonyms": [
+      "Pepperoni",
+      "pepperoni"
+    ]
+  },
+  {
+    "value": "Sausage",
+    "synonyms": [
+      "Sausage",
+      "sausage",
+      "sausages"
+    ]
+  },
+  {
+    "value": "Bacon",
+    "synonyms": [
+      "Bacon",
+      "bacon"
+    ]
+  },
+  {
+    "value": "Extra cheese",
+    "synonyms": [
+      "Extra cheese",
+      "extra cheese",
+      "extracheese",
+      "extraCheese",
+      "ExtraCheese",
+      "Extracheese"
+    ]
+  },
+  {
+    "value": "Black olives",
+    "synonyms": [
+      "Black olives",
+      "black olives",
+      "blackolives",
+      "blackOlives",
+      "black Olives",
+      "Blackolives",
+      "Black Olives"
+    ]
+  },
+  {
+    "value": "Green peppers",
+    "synonyms": [
+      "Green peppers",
+      "GreenPeppers",
+      "greenpeppers",
+      "greenPeppers"
+    ]
+  },
+  {
+    "value": "cheese",
+    "synonyms": [
+      "cheese",
+      "Cheese"
+    ]
+  }
+]
